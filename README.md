@@ -1,4 +1,4 @@
-# dearminiprojectfiles
+# miniprojectfiles
 This repo is created to host all the relevant minor project files for seamless work
 
 COMBINED_NEW.ino = The full project's source code (My code; the code that we used).
